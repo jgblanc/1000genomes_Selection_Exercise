@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jgblanc/1000genomes_Selection_Exercise/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jgblanc/1000genomes_Selection_Exercise/master?urlpath=rstudio)
 
 # Workshop: 1000 Genomes Selection Exercise
 
